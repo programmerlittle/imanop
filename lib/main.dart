@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 );
                 textInput.clear();
               },
-              buttonLabel: 'About2'),
+              buttonLabel: 'About21234568'),
           TextButtonWidget(
               controller: textInput,
               onPressed: () async {
