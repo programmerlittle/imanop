@@ -70,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 );
                 textInput.clear();
               },
-              buttonLabel: 'About2')
+              buttonLabel: 'About2222')
         ],
       ),
     );
